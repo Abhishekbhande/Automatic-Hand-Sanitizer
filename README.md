@@ -2,6 +2,7 @@
 An Automatic Sanitizer Dispenser are used Automatic Sanitized our hand properly without touch to machine.
 An Automatic Sanitizer Dispenser are used Automatic Sanitized our hand properly without touch to machine. To avoid covid-19 the main thing is to take precautions and sanitized your hand regularly. To sanitized automatically hand this project are used but due high cost people not afford it our aim is to provide machine with minimum cost.
 ![1](https://user-images.githubusercontent.com/84577788/119212890-f9b4a580-bad8-11eb-9a9d-10cf5d49f953.jpeg)
+This project is based on an infrared (IR) sensor, which detects the presence of hands and consequently activates the motor pump to dispense alcohol-based sanitiser. The circuit is economical, reliable, and can be easily constructed
 ![2](https://user-images.githubusercontent.com/84577788/119213043-0be31380-bada-11eb-9f24-842d8627e20e.jpeg)
 ![3](https://user-images.githubusercontent.com/84577788/119213327-f0790800-badb-11eb-83d9-cf8e3e38bf13.jpeg)
 ![4](https://user-images.githubusercontent.com/84577788/119213387-4cdc2780-badc-11eb-9cb5-da159befd8b9.jpeg)
